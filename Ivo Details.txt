@@ -1,0 +1,4 @@
+What is my name? Ivo
+Where am I from? Sofia, Bulgaria.
+What hobbies/pastimes do I enjoy? Playing videogames.
+Why did I pick SoftUni? I wanted to study something with computers.
